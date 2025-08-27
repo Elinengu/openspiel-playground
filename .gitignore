@@ -5,3 +5,5 @@ __pycache__/
 .venv
 results/*
 !results/.gitkeep
+!.vscode/settings.json
+.svg

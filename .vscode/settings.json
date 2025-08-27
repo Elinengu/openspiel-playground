@@ -1,0 +1,4 @@
+{
+  "python.defaultInterpreterPath": "~/open_spiel/.venv/bin/python/",
+  "jupyter.jupyterServerType": "local"
+}
